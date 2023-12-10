@@ -1,5 +1,5 @@
 
-![logo](https://raw.githubusercontent.com/usman583/usman583/main/mani%20baner.jpg)
+![logo](https://github.com/usman583/usman583/blob/main/usman%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">"Creating Websites: I do it all, from start to finish!"</h3>
